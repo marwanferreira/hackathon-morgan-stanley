@@ -7,5 +7,5 @@ Welcome to our project repository for the Morgan Stanley Hackathon, held on Sept
 - Date: 18 September 2025  
 - Location: Morgan Stanley Office, Paris  
 - Team size: 4 members  
-- Challenge Theme: FX Trading – EUR/GBP in the context of the brexit
+- Challenge Theme: FX Algo Trading – EUR/GBP in the context of the brexit
 - Our Result: 5th place
